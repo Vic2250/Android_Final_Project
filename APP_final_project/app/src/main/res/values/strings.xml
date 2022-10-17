@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">1091761_final_project</string>
+
+    <integer-array name="image_list">
+        <item>@drawable/cola</item>
+        <item>@drawable/bubble_milk_tea</item>
+        <item>@drawable/orange_juice</item>
+        <item>@drawable/lemon_tea</item>
+
+    </integer-array>
+
+    <string-array name="film_name">
+        <item>奇異博士(二):失控多重宇宙</item>
+        <item>媽的多重宇宙</item>
+        <item>捍衛戰士:獨行俠</item>
+        <item>犯罪都市(二)</item>
+        <item>怪獸與鄧不利多的秘密</item>
+    </string-array>
+</resources>
